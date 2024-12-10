@@ -1,1 +1,1 @@
-I am editing the README file. Adding some more details about the project description.
+[LinkedIn](https://www.linkedin.com/in/alexandr-minassyants-8070a7183/)
